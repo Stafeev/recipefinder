@@ -1,4 +1,4 @@
-Assignment for Module #3 in <a href="http://www.w3schools.com">Ruby on Rails: An Introduction course:</a> Recipe Finder
+<h3>Assignment for Module #3 in <a href="http://www.w3schools.com">Ruby on Rails: An Introduction course:</a> Recipe Finder</h3>
 
 The overall goal of this assignment was to implement a Rails application using model, view, and controller classes.
 • the model class will access information
@@ -16,4 +16,5 @@ accept the results
 • the Rails app will build a web page display of the results and accept the next keyword search
 • the web page displayed will provide HTML links to more detailed recipe information from other web sites.
 
-Heroku link: 
+<h3>Heroku link:</h3> http://recipefinder5.herokuapp.com/
+<h3>Example query:</h3> http://recipefinder5.herokuapp.com/?search=mocha
