@@ -1,4 +1,4 @@
-<h3>Assignment for Module #3 in <a href="http://www.w3schools.com">Ruby on Rails: An Introduction course:</a> Recipe Finder</h3>
+<h3>Assignment for Module #3 in <a href="https://www.coursera.org/learn/ruby-on-rails-intro/home/welcome">Ruby on Rails: An Introduction course:</a> Recipe Finder</h3>
 
 The overall goal of this assignment was to implement a Rails application using model, view, and controller classes.
 • the model class will access information
